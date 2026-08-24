@@ -1,9 +1,7 @@
 # Firstgram Privacy Policy
 
-Draft for review — not approved or published
-
-**Effective Date:** August 2, 2026
-**Last Updated:** August 10, 2026
+**Effective Date:** August 24, 2026
+**Last Updated:** August 24, 2026
 
 Firstgram ("Firstgram," "we," "us," or "our") respects your privacy. This Privacy Policy explains what information Firstgram processes, why we process it, when it may be shared, how long it is retained, and the choices available to you.
 
@@ -193,9 +191,8 @@ For privacy questions, requests, or complaints, contact:
 **Email:** yuchnng04@gmail.com
 **Postal address:** Lawful address will be provided if legally required
 
-## Public draft links
+## Public links
 
-- Privacy Policy（英文）: https://github.com/SophieYu04/firstgram-public-docs/blob/main/PRIVACY_POLICY_EN.md
-- Privacy Policy（中文）: https://github.com/SophieYu04/firstgram-public-docs/blob/main/PRIVACY_POLICY_ZH_TW.md
-- Support page（中文）: https://github.com/SophieYu04/firstgram-public-docs/blob/main/SUPPORT_ZH_TW.md
-- Support page（English）: https://github.com/SophieYu04/firstgram-public-docs/blob/main/SUPPORT_EN.md
+- Privacy Policy（英文）: https://sophieyu04.github.io/firstgram-public-docs/PRIVACY_POLICY_EN.html
+- Privacy Policy（中文）: https://sophieyu04.github.io/firstgram-public-docs/PRIVACY_POLICY_ZH_TW.html
+- Support page（中文）: https://sophieyu04.github.io/firstgram-public-docs/SUPPORT_ZH_TW.html

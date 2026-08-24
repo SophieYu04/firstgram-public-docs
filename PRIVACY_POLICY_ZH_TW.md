@@ -1,8 +1,7 @@
 # Firstgram 隱私權政策
 
-
-生效日期：2026 年 08 月 02 日
-最後更新日期：2026 年 08 月 10 日
+生效日期：2026 年 08 月 24 日
+最後更新日期：2026 年 08 月 24 日
 
 Firstgram（以下稱「本 App」）重視你的隱私。本政策說明目前版本如何處理相機、照片、帳號、貼文、社群安全、F Coin 及 Creator Kit 資料。
 
@@ -115,9 +114,8 @@ Email：yuchnng04@gmail.com
 地址：依法規需要時提供
 電話：依法規需要時提供
 
-## 可公開版本連結
+## 公開連結
 
-- 隱私權政策（中文）：https://github.com/SophieYu04/firstgram-public-docs/blob/main/PRIVACY_POLICY_ZH_TW.md
-- 隱私權政策（英文）：https://github.com/SophieYu04/firstgram-public-docs/blob/main/PRIVACY_POLICY_EN.md
-- 支援頁（中文）：https://github.com/SophieYu04/firstgram-public-docs/blob/main/SUPPORT_ZH_TW.md
-- 支援頁（英文）：https://github.com/SophieYu04/firstgram-public-docs/blob/main/SUPPORT_EN.md
+- 隱私權政策（中文）：https://sophieyu04.github.io/firstgram-public-docs/PRIVACY_POLICY_ZH_TW.html
+- 隱私權政策（英文）：https://sophieyu04.github.io/firstgram-public-docs/PRIVACY_POLICY_EN.html
+- 支援頁（中文）：https://sophieyu04.github.io/firstgram-public-docs/SUPPORT_ZH_TW.html

@@ -1,10 +1,10 @@
 # Firstgram Support
 
-Draft for review — not approved or published
-
 Support email: yuchnng04@gmail.com
 
 Service provider: CHEN NING YU
+
+Last updated: August 24, 2026
 
 Target response time: within three business days
 
@@ -74,10 +74,3 @@ accounting, disputes, or law.
 Email yuchnng04@gmail.com for a privacy request, content report, or moderation
 appeal. We may request reasonable information to verify your identity or locate
 the relevant record.
-
-
-## Public Links
-- Privacy Policy (Chinese): https://github.com/SophieYu04/firstgram-public-docs/blob/main/PRIVACY_POLICY_ZH_TW.md
-- Privacy Policy (English): https://github.com/SophieYu04/firstgram-public-docs/blob/main/PRIVACY_POLICY_EN.md
-- Support (Chinese): https://github.com/SophieYu04/firstgram-public-docs/blob/main/SUPPORT_ZH_TW.md
-- Support (English): https://github.com/SophieYu04/firstgram-public-docs/blob/main/SUPPORT_EN.md

@@ -1,9 +1,10 @@
 # Firstgram 支援
 
-
 支援 Email：yuchnng04@gmail.com
 
 服務提供者：CHEN NING YU
+
+最後更新日期：2026 年 8 月 24 日
 
 預計回覆時間：三個工作天內
 
@@ -63,10 +64,3 @@ Firstgram、確認使用相同帳號，並聯絡支援提供 Kit 名稱及大約
 
 如需提出隱私請求、內容檢舉或審核申訴，請寄信至 yuchnng04@gmail.com。我們
 可能要求合理資訊，以確認你的身分或找到相關紀錄。
-
-
-## 文件互連
-- 隱私權政策（中文）：https://github.com/SophieYu04/firstgram-public-docs/blob/main/PRIVACY_POLICY_ZH_TW.md
-- 隱私權政策（英文）：https://github.com/SophieYu04/firstgram-public-docs/blob/main/PRIVACY_POLICY_EN.md
-- 支援頁（中文）：https://github.com/SophieYu04/firstgram-public-docs/blob/main/SUPPORT_ZH_TW.md
-- 支援頁（英文）：https://github.com/SophieYu04/firstgram-public-docs/blob/main/SUPPORT_EN.md
