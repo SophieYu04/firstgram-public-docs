@@ -1,7 +1,7 @@
 # Firstgram Privacy Policy
 
-**Effective Date:** August 24, 2026
-**Last Updated:** August 24, 2026
+**Effective Date:** August 26, 2026
+**Last Updated:** August 26, 2026
 
 Firstgram ("Firstgram," "we," "us," or "our") respects your privacy. This Privacy Policy explains what information Firstgram processes, why we process it, when it may be shared, how long it is retained, and the choices available to you.
 
@@ -14,7 +14,7 @@ This Privacy Policy applies to the Firstgram iOS application and related service
 ## 2. Summary
 
 - Firstgram processes live camera frames and pose-alignment information on your device to provide camera guidance.
-- Firstgram does not request continuous or background location access. You may voluntarily attach a place name or map pin to a post.
+- When you publish a photo, Firstgram reads its GPS capture location and automatically attaches it to the post. The location of a public post may be visible to other users. You can remove or change the location before publishing.
 - Account, profile, social, post, safety, and purchase information is stored using service providers described below.
 - Photos posted with the **Public** setting enabled may be used by other Firstgram users as free camera templates.
 - Profile and post content may be sent to OpenAI for content-safety moderation. Firstgram must provide notice and obtain your consent before this sharing occurs.
@@ -52,7 +52,7 @@ We may process information that you provide or create, including:
 
 - Username or handle, display name, biography, and profile photo;
 - Photos, captions, and other post content;
-- A place name, map location, or precise map pin that you voluntarily attach to a post;
+- A photo's GPS capture location, a place name, map location, or precise map pin associated with a post;
 - Follows, bookmarks, Flowers, blocks, reports, and related social interactions; and
 - Post status, creation time, and other information needed to operate the service.
 
@@ -75,7 +75,7 @@ Automated moderation may prevent content from being published or may flag it for
 
 ### E. Location Information
 
-Firstgram does not request automatic, continuous, or background access to your device's location. If you voluntarily search for or select a place, or place a precise pin on a map, Firstgram may store that location with your post and display it to others.
+Firstgram does not request continuous or background access to your device's location. When you publish a photo, Firstgram reads its GPS capture location and automatically attaches it to the post. The location of a public post may be visible to other users. You can remove or change the location before publishing.
 
 Map searches and map displays use Apple MapKit. Apple may process map requests, device information, IP address, and related technical information according to Apple's privacy terms.
 
@@ -135,6 +135,7 @@ Public post photos are also available inside Firstgram as free camera templates.
 We retain information only for as long as reasonably necessary for the purposes described in this Privacy Policy:
 
 - On-device app data remains until you remove it through the app, delete the app, or erase the device, depending on the feature.
+- Logging out permanently deletes private reference photos and drafts from this device.
 - Photos saved to Apple Photos remain until you delete them from your photo library.
 - Account, profile, post, and social data generally remains while your account or the relevant content exists.
 - Revoked public-post template caches are removed from Firstgram-managed storage on other users' devices when those devices next synchronize.
@@ -152,7 +153,7 @@ Depending on where you live, you may have the right to access, correct, delete, 
 You can:
 
 - Change camera and photo permissions in iOS Settings;
-- Choose whether to attach a location to a post;
+- Remove or change the automatically attached photo location before publishing;
 - Turn off **Public** before publishing a post, or later make an eligible post private;
 - Delete individual content where the app provides that control;
 - Block or report other users;
