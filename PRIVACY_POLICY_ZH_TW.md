@@ -1,7 +1,7 @@
 # Firstgram 隱私權政策
 
 生效日期：2026 年 08 月 26 日
-最後更新日期：2026 年 08 月 26 日
+最後更新日期：2026 年 08 月 30 日
 
 Firstgram（以下稱「本 App」）重視你的隱私。本政策說明目前版本如何處理相機、照片、帳號、貼文、社群安全、F Coin 及 Creator Kit 資料。
 
@@ -37,6 +37,8 @@ Firstgram（以下稱「本 App」）重視你的隱私。本政策說明目前�
 
 為了偵測不安全、違法或禁止內容，Firstgram 可能將你提交的個人檔案文字、圖片、貼文圖片或文字傳送給 OpenAI 進行自動安全審核。App 必須在傳送前顯示通知並取得必要同意。不使用雲端投稿功能時，相機仍可在裝置上運作。
 
+為提供個人化貼文推薦，Firstgram 可能使用你的書籤紀錄，並將公開貼文圖片傳送給 OpenAI 進行視覺分類。OpenAI 會回傳有限的內容標籤，Firstgram 使用這些標籤比對你收藏的內容並排序推薦貼文。這項處理不會用於廣告或跨 App 追蹤。
+
 ### 4. 地圖與位置
 
 發布照片時，Firstgram 會讀取照片的 GPS 拍攝位置並自動附加到貼文；公開貼文的位置可能供其他使用者查看。你可以在發布前移除或變更地點。Firstgram 使用 Apple MapKit 顯示地圖；Apple 可能依其政策處理地圖請求及技術資訊。
@@ -47,7 +49,7 @@ Firstgram（以下稱「本 App」）重視你的隱私。本政策說明目前�
 
 - Apple 處理付款資料，Firstgram 不會取得完整信用卡、金融卡或銀行帳戶資料；
 - RevenueCat 可能處理你的 App User ID、商品與交易識別碼、虛擬貨幣調整、購買及退款狀態；
-- RevenueCat App User ID 使用目前登入的 Supabase UUID；
+- RevenueCat App User ID 使用由 Firstgram 為商務用途產生的獨立隨機識別碼，不使用公開貼文中的 Supabase 使用者 UUID；
 - Firstgram 可能處理你的 F Coin 餘額、Creator Kit 所有權、訂單、退款債務、Creator 收益、提領申請及稽核紀錄。
 
 ### 6. 技術與支援資料
