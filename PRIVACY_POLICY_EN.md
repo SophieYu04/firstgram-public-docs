@@ -1,7 +1,7 @@
 # Firstgram Privacy Policy
 
 **Effective Date:** August 26, 2026
-**Last Updated:** August 26, 2026
+**Last Updated:** September 15, 2026
 
 Firstgram ("Firstgram," "we," "us," or "our") respects your privacy. This Privacy Policy explains what information Firstgram processes, why we process it, when it may be shared, how long it is retained, and the choices available to you.
 
@@ -73,6 +73,8 @@ When you submit profile or post content that requires moderation, the relevant t
 
 Automated moderation may prevent content from being published or may flag it for further review. You may contact us if you believe a moderation decision was made in error.
 
+For personalized post recommendations, Firstgram 1.0.1 uses Apple Vision on your device to analyze post images and generate a limited set of content tags. When you publish a public post, these tags are submitted with the post to Firstgram, which uses them with your bookmark history to rank recommended posts. Supported legacy cloud-classification flows may send public post images to OpenAI to generate recommendation tags. Recommendation classification and the OpenAI content-safety review described above are separate processing steps; on-device classification does not remove the safety review required for publishing. These activities are not used for advertising or cross-app tracking.
+
 ### E. Location Information
 
 Firstgram does not request continuous or background access to your device's location. When you publish a photo, Firstgram reads its GPS capture location and automatically attaches it to the post. The location of a public post may be visible to other users. You can remove or change the location before publishing.
@@ -114,7 +116,7 @@ We share information only as needed for the purposes described in this Privacy P
 
 - **Apple:** Sign in with Apple, Apple Photos, MapKit, StoreKit, App Store payments, and platform security services. [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
 - **Supabase:** Account authentication, database hosting, file storage, and server-side functions. [Supabase Privacy Policy](https://supabase.com/privacy)
-- **OpenAI:** Automated safety moderation of profile and post content after the required notice and consent. [OpenAI Privacy Policy](https://openai.com/policies/privacy-policy/)
+- **OpenAI:** Automated safety moderation of profile and post content after the required notice and consent, and recommendation tags for public posts in supported legacy cloud-classification flows. [OpenAI Privacy Policy](https://openai.com/policies/privacy-policy/)
 - **RevenueCat:** F Coin purchases, virtual-currency transactions, refunds, and purchase-account deletion. [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy/)
 - **Meta or Instagram:** If you open an Instagram link or interact with embedded Instagram content, Meta may process information under its own policy. [Meta Privacy Policy](https://www.facebook.com/privacy/policy/)
 - **Authorities and professional advisers:** When reasonably necessary to comply with law, protect rights and safety, investigate fraud or abuse, or establish and defend legal claims.

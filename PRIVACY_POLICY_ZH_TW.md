@@ -1,7 +1,7 @@
 # Firstgram 隱私權政策
 
 生效日期：2026 年 08 月 26 日
-最後更新日期：2026 年 08 月 30 日
+最後更新日期：2026 年 09 月 15 日
 
 Firstgram（以下稱「本 App」）重視你的隱私。本政策說明目前版本如何處理相機、照片、帳號、貼文、社群安全、F Coin 及 Creator Kit 資料。
 
@@ -37,7 +37,7 @@ Firstgram（以下稱「本 App」）重視你的隱私。本政策說明目前�
 
 為了偵測不安全、違法或禁止內容，Firstgram 可能將你提交的個人檔案文字、圖片、貼文圖片或文字傳送給 OpenAI 進行自動安全審核。App 必須在傳送前顯示通知並取得必要同意。不使用雲端投稿功能時，相機仍可在裝置上運作。
 
-為提供個人化貼文推薦，Firstgram 可能使用你的書籤紀錄，並將公開貼文圖片傳送給 OpenAI 進行視覺分類。OpenAI 會回傳有限的內容標籤，Firstgram 使用這些標籤比對你收藏的內容並排序推薦貼文。這項處理不會用於廣告或跨 App 追蹤。
+為提供個人化貼文推薦，Firstgram 1.0.1 使用 Apple Vision 在裝置上分析貼文圖片，產生有限的內容標籤。發布公開貼文時，這些標籤會隨貼文提交至 Firstgram，供系統比對你的書籤紀錄並排序推薦貼文。仍受支援的舊版雲端分類流程，可能將公開貼文圖片傳送給 OpenAI 產生推薦標籤。推薦分類與上述 OpenAI 內容安全審核是不同的處理；使用裝置端分類不代表發布內容時免除安全審核。這些處理不會用於廣告或跨 App 追蹤。
 
 ### 4. 地圖與位置
 
@@ -72,7 +72,7 @@ Supabase、Apple、RevenueCat 及其他服務提供者可能為了連線、安�
 
 - **Apple：** Sign in with Apple、Photos、MapKit、StoreKit、App Store 付款及系統安全服務。[Apple 隱私權政策](https://www.apple.com/tw/legal/privacy/)
 - **Supabase：** 帳號驗證、資料庫、檔案儲存及伺服器功能。[Supabase 隱私權政策](https://supabase.com/privacy)
-- **OpenAI：** 在通知及取得必要同意後，處理個人檔案與貼文的自動安全審核。[OpenAI 隱私權政策](https://openai.com/policies/privacy-policy/)
+- **OpenAI：** 在通知及取得必要同意後，處理個人檔案與貼文的自動安全審核；仍受支援的舊版雲端分類流程也可能使用 OpenAI 為公開貼文產生推薦標籤。[OpenAI 隱私權政策](https://openai.com/policies/privacy-policy/)
 - **RevenueCat：** F Coin 購買、虛擬貨幣交易、退款及購買帳號刪除。[RevenueCat 隱私權政策](https://www.revenuecat.com/privacy/)
 
 Firstgram 不使用第三方廣告 SDK，不進行跨 App 或跨網站追蹤，也不出售或出租個人資料。
