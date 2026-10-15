@@ -1,7 +1,6 @@
 # Firstgram Privacy Policy
 
-**Effective Date:** August 26, 2026
-**Last Updated:** September 15, 2026
+**Effective Date:** October 15, 2026
 
 Firstgram ("Firstgram," "we," "us," or "our") respects your privacy. This Privacy Policy explains what information Firstgram processes, why we process it, when it may be shared, how long it is retained, and the choices available to you.
 
@@ -19,7 +18,7 @@ This Privacy Policy applies to the Firstgram iOS application and related service
 - Photos posted with the **Public** setting enabled may be used by other Firstgram users as free camera templates.
 - Profile and post content may be sent to OpenAI for content-safety moderation. Firstgram must provide notice and obtain your consent before this sharing occurs.
 - Apple processes App Store payments. Firstgram does not receive your complete payment-card details.
-- Firstgram does not sell or rent your personal data, does not display third-party behavioral advertising, and does not track you across other companies' apps or websites for advertising.
+- Firstgram does not sell or rent personal data to data brokers or for third-party advertising. Personal data may be transferred in a business transaction as described in Section 5. We do not display third-party behavioral advertising or track you across other companies' apps or websites for advertising.
 
 ## 3. Information We Process
 
@@ -58,7 +57,7 @@ We may process information that you provide or create, including:
 
 Your profile, posts, captions, attached locations, and some social activity may be visible to other Firstgram users or the public, depending on the feature and your settings. Your account email address is not displayed as public profile information.
 
-The **Public** setting is enabled by default when you prepare a post. If you publish a photo with this setting enabled, other Firstgram users may use that photo as a free reference template while taking their own photos. If you later make the post private or delete it, Firstgram prevents new template access and removes Firstgram-managed cached copies from other users' devices the next time those devices synchronize. Photos that other users already created using the reference are not deleted.
+If you publish a photo with the **Public** setting enabled, other Firstgram users may use that photo as a free reference template while taking their own photos. If you later make the post private or delete it, Firstgram prevents new template access and removes Firstgram-managed cached copies from other users' devices the next time those devices synchronize. Photos that other users already created using the reference are not deleted.
 
 ### D. Content Moderation and Safety Information
 
@@ -95,6 +94,16 @@ If you buy F Coin or use F Coin to purchase a Creator Kit:
 
 Firstgram and its service providers may automatically process limited technical information such as IP address, device and operating-system information, app version, request timestamps, error information, and security events. If you contact us, we also process the information included in your support request.
 
+### H. Usage and Product Analytics
+
+The new Content Safety Review and Service Improvement choice covers moderation and the analytics described below in one action, with each purpose recorded separately. Earlier moderation-only consent does not grant analytics consent. You may withdraw both in Settings. Declining or withdrawing leaves on-device camera features available but prevents submissions requiring cloud review. Withdrawal stops future transmissions, does not undo completed reviews, and does not automatically delete analytics events already uploaded.
+
+In versions with usage analytics enabled, we record limited feature interactions and technical data, including entering the foreground, visible foreground time, opening template libraries, built-in photo impressions, opening photo previews, clicking external links, applying references, completing captures, saving references, and starting purchase flows. We also record operation outcomes, waiting times, and controlled error codes to understand feature use and improve reliability. Server-verified publishing and purchase outcomes enter analytics only when their verification flows are enabled; unverified client actions are not treated as successful transactions.
+
+Events contain an event identifier, timestamp, session identifier, app version, data-format version, and identifiers of related templates, photo items, or features. Signed-in activity uses an account identifier; signed-out activity uses a random visitor identifier. Visitor and account analytics histories remain separate and are not merged on sign-in. These records may be linked to an account or visitor identifier and are not fully anonymous.
+
+Product analytics events do not contain photo or video content, facial features, precise location, device fingerprints, contacts, passwords, full payment details, free-text input, or full error messages. We do not record screens; foreground time excludes background time. These limits apply to product analytics events. Photos and locations that you choose to publish are handled under the other sections of this policy.
+
 ## 4. How We Use Information
 
 We use information to:
@@ -105,6 +114,7 @@ We use information to:
 - Moderate content and protect users from abuse, fraud, and prohibited conduct;
 - Process F Coin purchases, Creator Kit orders, refunds, Creator earnings, and payout requests;
 - Respond to support, privacy, and legal requests;
+- Analyze feature use, foreground time, retention, and operation flows to improve products and reliability, without using these analytics for cross-company advertising tracking or behavioral personalization;
 - Diagnose errors and improve the reliability and safety of Firstgram; and
 - Comply with law and enforce our terms and policies.
 
@@ -118,13 +128,14 @@ We share information only as needed for the purposes described in this Privacy P
 - **Supabase:** Account authentication, database hosting, file storage, and server-side functions. [Supabase Privacy Policy](https://supabase.com/privacy)
 - **OpenAI:** Automated safety moderation of profile and post content after the required notice and consent, and recommendation tags for public posts in supported legacy cloud-classification flows. [OpenAI Privacy Policy](https://openai.com/policies/privacy-policy/)
 - **RevenueCat:** F Coin purchases, virtual-currency transactions, refunds, and purchase-account deletion. [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy/)
+- **PostHog and contracted technical service providers:** Processing the limited usage events, controlled identifiers, and operation diagnostics described above under our instructions to provide analytics storage, reporting, and technical support. PostHog uses its United States regional service and also processes the network IP address associated with event delivery. Disabling geographic enrichment does not remove that IP address from stored event properties. Processing on our behalf does not authorize independent use for cross-company advertising tracking. [PostHog Privacy Policy](https://posthog.com/privacy)
 - **Meta or Instagram:** If you open an Instagram link or interact with embedded Instagram content, Meta may process information under its own policy. [Meta Privacy Policy](https://www.facebook.com/privacy/policy/)
 - **Authorities and professional advisers:** When reasonably necessary to comply with law, protect rights and safety, investigate fraud or abuse, or establish and defend legal claims.
-- **A successor organization:** In connection with a merger, acquisition, financing, reorganization, or sale of all or part of Firstgram, subject to appropriate confidentiality and privacy protections.
+- **Business transactions and transfers:** If Firstgram is involved in a merger, acquisition, financing, reorganization, bankruptcy, receivership, liquidation, sale of all or part of its business or assets, or transfer of the service to another provider, we may disclose necessary personal data to prospective counterparties and professional advisers during due diligence and transfer personal data to an acquirer, successor, or other recipient as part of the transaction. These disclosures and transfers are subject to applicable law and appropriate confidentiality and privacy protections. We will provide notice and obtain consent where required by law.
 
 We require service providers that process personal data for Firstgram to protect it consistently with this Privacy Policy and applicable law. Third-party services may also process information under their own terms when they act independently from Firstgram.
 
-Firstgram does not sell or rent personal data. Firstgram does not use third-party advertising SDKs or track users across other companies' apps and websites for targeted advertising.
+Firstgram does not sell or rent personal data to data brokers or for third-party advertising. Personal data may be transferred as part of a business transaction described above, subject to applicable law; this provision does not authorize unrelated sales or unrestricted use of personal data. Firstgram does not use third-party advertising SDKs or track users across other companies' apps and websites for targeted advertising.
 
 ## 6. Public Information
 
@@ -145,6 +156,7 @@ We retain information only for as long as reasonably necessary for the purposes 
 - Moderation, report, fraud-prevention, security, and support records may be retained for a reasonable period needed to protect users, investigate abuse, resolve disputes, and comply with law.
 - Purchase, refund, accounting, transaction, and audit records may be retained as required for fraud prevention, dispute resolution, tax, accounting, or legal compliance, even after account deletion. Where practical, these records are pseudonymized or de-identified so they are no longer directly linked to your active account.
 - Residual copies may remain in encrypted backups until they are overwritten through our normal backup cycle.
+- When product analytics is enabled, events processed by PostHog are retained for up to one year. We retain minimal identifiers and status records needed to process and verify analytics deletion requests. Completed deletion-verification records are retained for up to one year from creation; unresolved requests remain until they can be resolved, subject to applicable law. This does not extend the retention period for the underlying usage events. Accounting, refund, fraud-prevention, and other legally retained business records follow their separate purposes.
 
 Retention periods may vary according to the type of information, the sensitivity of the information, legal requirements, and whether the information is needed to resolve a dispute or enforce an agreement.
 
@@ -159,12 +171,13 @@ You can:
 - Turn off **Public** before publishing a post, or later make an eligible post private;
 - Delete individual content where the app provides that control;
 - Block or report other users;
-- Delete your Firstgram account using the in-app account-deletion control; or
-- Contact us at **yuchnng04@gmail.com** to make a privacy request or appeal a moderation decision.
+- Delete your Firstgram account using the in-app account-deletion control.
 
 When you delete your account, Firstgram deletes your authentication account, profile, uploaded profile media, authored posts and post media, F Coin balance, Creator Kit ownership, and associated social data from active systems. Apple and RevenueCat may retain transaction records needed for refunds, fraud prevention, dispute resolution, accounting, or legal compliance. Creating another Firstgram account does not restore deleted F Coin or Creator Kit ownership.
 
 We may need to verify your identity before completing a privacy request. We may deny or limit a request where permitted by law, including when information must be retained to protect users, complete a transaction, prevent fraud, or comply with a legal obligation.
+
+Signing out or uninstalling the app does not delete analytics events already transmitted. You may contact us to request access, a copy, correction, restriction, cessation of collection or use, objection, or deletion of identifiable analytics data, as applicable under law. We will confirm the relevant identifiers and retention requirements before arranging processing. Provider deletion may complete in stages; submitting a request is not proof of immediate deletion.
 
 ## 9. Security
 
@@ -176,11 +189,13 @@ You are responsible for protecting access to your device, email account, and Sig
 
 Firstgram and its service providers may process information in countries other than the country where you live, including the United States and other locations where our providers operate. Where required, we use appropriate safeguards for international transfers of personal data.
 
+Product analytics currently uses a United States regional service. Data is transmitted over networks, stored, and processed into electronic reports. Access is limited to authorized people who need it to provide, maintain, or support the service or handle data requests.
+
 ## 11. Children's Privacy
 
 Firstgram is not directed to children under 13. If you are below the minimum age required to consent to data processing in your jurisdiction, you may use account or social features only with authorization from a parent or legal guardian where permitted by law.
 
-If you believe that a child provided personal data without appropriate authorization, contact us at **yuchnng04@gmail.com**. We will investigate and delete the information where required.
+If you believe that a child provided personal data without appropriate authorization, contact us at **firstgram.official@gmail.com**. We will investigate and delete the information where required.
 
 ## 12. Changes to This Privacy Policy
 
@@ -191,7 +206,7 @@ We may update this Privacy Policy when Firstgram's features, service providers, 
 For privacy questions, requests, or complaints, contact:
 
 **CHEN NING YU**
-**Email:** yuchnng04@gmail.com
+**Email:** firstgram.official@gmail.com
 **Postal address:** Lawful address will be provided if legally required
 
 ## Public links

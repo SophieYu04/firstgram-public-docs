@@ -1,6 +1,6 @@
 # Firstgram 支援
 
-支援 Email：yuchnng04@gmail.com
+支援 Email：firstgram.official@gmail.com
 
 服務提供者：CHEN NING YU
 
@@ -62,5 +62,5 @@ Firstgram、確認使用相同帳號，並聯絡支援提供 Kit 名稱及大約
 
 ## 隱私及安全請求
 
-如需提出隱私請求、內容檢舉或審核申訴，請寄信至 yuchnng04@gmail.com。我們
+如需提出隱私請求、內容檢舉或審核申訴，請寄信至 firstgram.official@gmail.com。我們
 可能要求合理資訊，以確認你的身分或找到相關紀錄。

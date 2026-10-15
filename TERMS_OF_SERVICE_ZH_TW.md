@@ -41,7 +41,7 @@ Creator 可以發布付費 Creator Kit。通過 Creator 審核不代表一定能
 
 需要審核的個人檔案或貼文文字、圖片，可能在提供必要通知並取得同意後，傳送
 至 OpenAI API 偵測禁止內容。自動審核可能出錯；你可以寄信至
-yuchnng04@gmail.com 提出申訴。
+firstgram.official@gmail.com 提出申訴。
 
 不得利用 Firstgram 從事違法、剝削、色情、威脅、仇恨、騷擾、侵權、冒用、
 詐欺、垃圾訊息、惡意程式、規避安全措施或干擾服務的行為。未經授權，不得擷
@@ -115,7 +115,7 @@ Apple、Supabase、OpenAI、RevenueCat、MapKit 及其他服務提供者各有�
 ## 十一、準據法及爭議
 
 本條款以台灣法律為準據法，但不影響你所在地強制適用的消費者保護。請先寄信
-至 yuchnng04@gmail.com 聯絡；無法解決的爭議，由適用法律下有管轄權的法院
+至 firstgram.official@gmail.com 聯絡；無法解決的爭議，由適用法律下有管轄權的法院
 處理。
 
 ## 十二、變更及聯絡方式
@@ -125,4 +125,4 @@ Apple、Supabase、OpenAI、RevenueCat、MapKit 及其他服務提供者各有�
 
 服務提供者：CHEN NING YU
 
-Email：yuchnng04@gmail.com
+Email：firstgram.official@gmail.com

@@ -50,7 +50,7 @@ controlled by the choices and rights confirmation presented in the App.
 
 Relevant profile and post text or images may be sent to the OpenAI API for
 prohibited-content detection after the required notice and consent. Automated
-review may be wrong. You may contact yuchnng04@gmail.com to appeal a moderation
+review may be wrong. You may contact firstgram.official@gmail.com to appeal a moderation
 decision.
 
 You may not use Firstgram for illegal, exploitative, sexual, threatening,
@@ -140,7 +140,7 @@ excluded.
 ## 11. Governing law and disputes
 
 Taiwan law governs these Terms without removing mandatory consumer protection
-that applies where you live. Please first contact yuchnng04@gmail.com. Any
+that applies where you live. Please first contact firstgram.official@gmail.com. Any
 unresolved dispute will be handled by a court that has jurisdiction under
 applicable law.
 
@@ -152,4 +152,4 @@ consent when required.
 
 Service provider: CHEN NING YU
 
-Email: yuchnng04@gmail.com
+Email: firstgram.official@gmail.com

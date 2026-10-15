@@ -1,6 +1,6 @@
 # Firstgram Support
 
-Support email: yuchnng04@gmail.com
+Support email: firstgram.official@gmail.com
 
 Service provider: CHEN NING YU
 
@@ -71,6 +71,6 @@ accounting, disputes, or law.
 
 ## Privacy and safety requests
 
-Email yuchnng04@gmail.com for a privacy request, content report, or moderation
+Email firstgram.official@gmail.com for a privacy request, content report, or moderation
 appeal. We may request reasonable information to verify your identity or locate
 the relevant record.
