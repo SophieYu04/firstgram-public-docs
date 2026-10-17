@@ -1,6 +1,8 @@
 # Firstgram Privacy Policy
 
-**Effective Date:** October 15, 2026
+**Revision status:** Draft for approval; not effective. The published policy dated October 15, 2026 remains the reference for existing commitments.
+
+This proposed revision describes separate Content Safety Review and optional Product Analytics controls for a forthcoming version. Its effective date and supported app version will be announced after release verification; these controls are not represented as available in every currently distributed version.
 
 Firstgram ("Firstgram," "we," "us," or "our") respects your privacy. This Privacy Policy explains what information Firstgram processes, why we process it, when it may be shared, how long it is retained, and the choices available to you.
 
@@ -96,9 +98,11 @@ Firstgram and its service providers may automatically process limited technical 
 
 ### H. Usage and Product Analytics
 
-The new Content Safety Review and Service Improvement choice covers moderation and the analytics described below in one action, with each purpose recorded separately. Earlier moderation-only consent does not grant analytics consent. You may withdraw both in Settings. Declining or withdrawing leaves on-device camera features available but prevents submissions requiring cloud review. Withdrawal stops future transmissions, does not undo completed reviews, and does not automatically delete analytics events already uploaded.
+In the forthcoming version covered by this revision, Content Safety Review and optional Product Analytics are separate choices. Product Analytics is off by default unless an existing valid analytics consent applies. Prior consent to safety review alone does not authorize analytics. Declining or withdrawing Product Analytics consent does not prevent posting; submitting content still requires the separate safety review described in Section 3.D. You can withdraw each consent independently in Settings. Withdrawing safety-review consent prevents new submissions that require that review, but does not withdraw analytics consent. Withdrawing analytics consent stops future optional analytics transmissions; it does not undo completed safety reviews or automatically delete events already uploaded. You can request deletion through the contact route in Section 13. Older versions may not offer separate controls; contact us using that route to exercise your rights.
 
-In versions with usage analytics enabled, we record limited feature interactions and technical data, including entering the foreground, visible foreground time, opening template libraries, built-in photo impressions, opening photo previews, clicking external links, applying references, completing captures, saving references, and starting purchase flows. We also record operation outcomes, waiting times, and controlled error codes to understand feature use and improve reliability. Server-verified publishing and purchase outcomes enter analytics only when their verification flows are enabled; unverified client actions are not treated as successful transactions.
+Where the version, enabled feature, and analytics consent permit, limited events may describe template impressions, opening previews, applying references, external Visit-link clicks, and foreground usage. This is not a statement that every interaction is collected or that all these flows are enabled in the current public release. Template events may be sent directly from the app to PostHog.
+
+Separately, feed operation uses account-linked records of posts seen in Supabase to reduce repeated recommendations. These operational records are distinct from optional PostHog product analytics. Their expiry settings do not by themselves establish when stored copies are physically deleted.
 
 Events contain an event identifier, timestamp, session identifier, app version, data-format version, and identifiers of related templates, photo items, or features. Signed-in activity uses an account identifier; signed-out activity uses a random visitor identifier. Visitor and account analytics histories remain separate and are not merged on sign-in. These records may be linked to an account or visitor identifier and are not fully anonymous.
 
@@ -156,7 +160,10 @@ We retain information only for as long as reasonably necessary for the purposes 
 - Moderation, report, fraud-prevention, security, and support records may be retained for a reasonable period needed to protect users, investigate abuse, resolve disputes, and comply with law.
 - Purchase, refund, accounting, transaction, and audit records may be retained as required for fraud prevention, dispute resolution, tax, accounting, or legal compliance, even after account deletion. Where practical, these records are pseudonymized or de-identified so they are no longer directly linked to your active account.
 - Residual copies may remain in encrypted backups until they are overwritten through our normal backup cycle.
-- When product analytics is enabled, events processed by PostHog are retained for up to one year. We retain minimal identifiers and status records needed to process and verify analytics deletion requests. Completed deletion-verification records are retained for up to one year from creation; unresolved requests remain until they can be resolved, subject to applicable law. This does not extend the retention period for the underlying usage events. Accounting, refund, fraud-prevention, and other legally retained business records follow their separate purposes.
+- Product analytics retention is assessed by the need to understand feature use and diagnose reliability issues, the data's sensitivity, applicable legal requirements, and outstanding privacy requests. A provider's one-year query window is not proof of deletion from storage or backups. We have not yet verified the full provider deletion and backup lifecycle and therefore cannot confirm a fixed physical-deletion deadline.
+- Necessary identifiers and status records used to handle privacy requests are retained according to the need to complete and verify the request and meet applicable legal obligations. This does not authorize longer retention of the underlying usage events.
+
+The October 15, 2026 policy stated a maximum one-year period for product analytics events and completed deletion-verification records. This clarification does not retroactively withdraw that commitment, extend existing data's retention, or waive your rights. Questions or requests concerning those records can be sent to firstgram.official@gmail.com.
 
 Retention periods may vary according to the type of information, the sensitivity of the information, legal requirements, and whether the information is needed to resolve a dispute or enforce an agreement.
 
