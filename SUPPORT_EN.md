@@ -4,7 +4,7 @@ Support email: firstgram.official@gmail.com
 
 Service provider: CHEN NING YU
 
-Last updated: August 24, 2026
+Last updated: October 25, 2026
 
 Target response time: within three business days
 
@@ -22,10 +22,18 @@ photo requires permission to add photos to your photo library. You can change
 these permissions in iOS Settings. Camera features should be tested on a
 physical iPhone; iOS Simulator does not provide the complete camera experience.
 
+After you choose a reference photo, the controls beside the crop ratio let you
+show its manual guide as a frame or silhouette (or hide it), turn face
+detection on or off, and use AI alignment. Camera guidance runs on your
+device; live camera frames are not uploaded to provide it.
+
 ## Account and social features
 
 Firstgram supports accounts, profiles, posts, follows, Flowers, blocks, and
-reports. If Sign in with Apple or an account request fails, confirm that your
+reports. You can browse public posts before signing in; publishing and other
+account features require signing in. Your profile can show one optional link;
+it is reviewed like other profile text. To report a profile link that breaks
+the rules, email support with the profile ID. If Sign in with Apple or an account request fails, confirm that your
 network connection is available and try again. For a moderation appeal, include
 the account and content details needed to identify the decision without sending
 your password.
@@ -70,6 +78,8 @@ may retain transaction records required for refunds, fraud prevention,
 accounting, disputes, or law.
 
 ## Privacy and safety requests
+
+The optional product analytics choice is separate from Content Safety Review. Turning analytics off stops future analytics collection on this device and requests removal of its pending queue, without preventing publishing. It does not confirm erasure of events already received by a provider. Signing out or uninstalling the App does not delete previously uploaded analytics. Contact support to request access, correction, cessation of processing, or deletion; we will verify the relevant identity and explain any outstanding provider processing. Please do not send passwords or payment credentials.
 
 Email firstgram.official@gmail.com for a privacy request, content report, or moderation
 appeal. We may request reasonable information to verify your identity or locate

@@ -2,6 +2,8 @@
 
 **Effective Date:** October 15, 2026
 
+**Last Updated:** October 25, 2026
+
 Firstgram ("Firstgram," "we," "us," or "our") respects your privacy. This Privacy Policy explains what information Firstgram processes, why we process it, when it may be shared, how long it is retained, and the choices available to you.
 
 Firstgram is operated by **CHEN NING YU**. For purposes of applicable data protection law, the operator is the data controller, meaning the person or entity that decides why and how personal data is processed.
@@ -49,7 +51,7 @@ If you create an account or sign in, we may process:
 
 We may process information that you provide or create, including:
 
-- Username or handle, display name, biography, and profile photo;
+- Username or handle, display name, biography, profile photo, and an optional profile link (a title and web address);
 - Photos, captions, and other post content;
 - A photo's GPS capture location, a place name, map location, or precise map pin associated with a post;
 - Follows, bookmarks, Flowers, blocks, reports, and related social interactions; and
@@ -63,7 +65,7 @@ If you publish a photo with the **Public** setting enabled, other Firstgram user
 
 To detect potentially unsafe, illegal, or prohibited content, Firstgram may process:
 
-- Profile fields, profile images, post images, and captions;
+- Profile fields (including profile link titles and web addresses), profile images, post images, and captions;
 - Automated moderation results and content-category indicators;
 - User reports, blocks, and enforcement decisions; and
 - Rate-limit, abuse-prevention, and security records.
@@ -72,7 +74,7 @@ When you submit profile or post content that requires moderation, the relevant t
 
 Automated moderation may prevent content from being published or may flag it for further review. You may contact us if you believe a moderation decision was made in error.
 
-For personalized post recommendations, Firstgram 1.0.1 uses Apple Vision on your device to analyze post images and generate a limited set of content tags. When you publish a public post, these tags are submitted with the post to Firstgram, which uses them with your bookmark history to rank recommended posts. Supported legacy cloud-classification flows may send public post images to OpenAI to generate recommendation tags. Recommendation classification and the OpenAI content-safety review described above are separate processing steps; on-device classification does not remove the safety review required for publishing. These activities are not used for advertising or cross-app tracking.
+For personalized post recommendations, Firstgram uses Apple Vision on your device to analyze post images and generate a limited set of content tags. When you publish a public post, these tags are submitted with the post to Firstgram, which uses them with your bookmark history to rank recommended posts. Supported legacy cloud-classification flows may send public post images to OpenAI to generate recommendation tags. Recommendation classification and the OpenAI content-safety review described above are separate processing steps; on-device classification does not remove the safety review required for publishing. These activities are not used for advertising or cross-app tracking.
 
 ### E. Location Information
 
@@ -96,7 +98,7 @@ Firstgram and its service providers may automatically process limited technical 
 
 ### H. Usage and Product Analytics
 
-Content Safety Review applies to content submitted for cloud moderation. Product analytics is a separate optional choice in Settings and requires separate consent. Declining or withdrawing product analytics does not prevent publishing or using on-device camera features. Earlier moderation-only or combined consent does not grant consent under the new independent analytics notice. You may withdraw consent for each purpose separately in Settings. Declining or withdrawing Content Safety Review leaves on-device camera features available but prevents submissions requiring cloud review. Turning off product analytics stops future collection on this device and clears its pending analytics queue; it does not automatically delete historical events already uploaded. If the server update fails while offline, the app shows a failure and continues to stop local collection until you explicitly consent to analytics again. Withdrawal does not undo completed content reviews.
+Content Safety Review applies to content submitted for cloud moderation. Product analytics is a separate optional choice in Settings. Declining or withdrawing analytics does not prevent publishing or using the on-device camera. Earlier moderation or combined consent does not grant consent to the new independent analytics notice. Turning analytics off stops future collection on this device and clears its pending analytics queue; it does not undo completed reviews or confirm deletion of previously uploaded events. A failed offline server update is shown as a failure, while a local stop remains in place until you explicitly grant analytics again.
 
 In versions with usage analytics enabled, we record limited feature interactions and technical data, including entering the foreground, visible foreground time, opening template libraries, built-in photo impressions, opening photo previews, clicking external links, applying references, completing captures, saving references, and starting purchase flows. We also record operation outcomes, waiting times, and controlled error codes to understand feature use and improve reliability. Server-verified publishing and purchase outcomes enter analytics only when their verification flows are enabled; unverified client actions are not treated as successful transactions.
 
@@ -129,7 +131,8 @@ We share information only as needed for the purposes described in this Privacy P
 - **OpenAI:** Automated safety moderation of profile and post content after the required notice and consent, and recommendation tags for public posts in supported legacy cloud-classification flows. [OpenAI Privacy Policy](https://openai.com/policies/privacy-policy/)
 - **RevenueCat:** F Coin purchases, virtual-currency transactions, refunds, and purchase-account deletion. [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy/)
 - **PostHog and contracted technical service providers:** Processing the limited usage events, controlled identifiers, and operation diagnostics described above under our instructions to provide analytics storage, reporting, and technical support. PostHog uses its United States regional service and also processes the network IP address associated with event delivery. Disabling geographic enrichment does not remove that IP address from stored event properties. Processing on our behalf does not authorize independent use for cross-company advertising tracking. [PostHog Privacy Policy](https://posthog.com/privacy)
-- **Meta or Instagram:** If you open an Instagram link or interact with embedded Instagram content, Meta may process information under its own policy. [Meta Privacy Policy](https://www.facebook.com/privacy/policy/)
+- **Meta or Instagram:** If you open an Instagram link, including a template's visit link, or interact with embedded Instagram content, Meta may process information under its own policy. [Meta Privacy Policy](https://www.facebook.com/privacy/policy/)
+- **Linked websites:** If you open a link shown on another user's profile, you leave Firstgram and that website processes information under its own policy. Firstgram does not control linked websites.
 - **Authorities and professional advisers:** When reasonably necessary to comply with law, protect rights and safety, investigate fraud or abuse, or establish and defend legal claims.
 - **Business transactions and transfers:** If Firstgram is involved in a merger, acquisition, financing, reorganization, bankruptcy, receivership, liquidation, sale of all or part of its business or assets, or transfer of the service to another provider, we may disclose necessary personal data to prospective counterparties and professional advisers during due diligence and transfer personal data to an acquirer, successor, or other recipient as part of the transaction. These disclosures and transfers are subject to applicable law and appropriate confidentiality and privacy protections. We will provide notice and obtain consent where required by law.
 
@@ -155,9 +158,9 @@ We retain information only for as long as reasonably necessary for the purposes 
 - Uploaded staging files are removed after processing when the upload and publication flow completes.
 - Moderation, report, fraud-prevention, security, and support records may be retained for a reasonable period needed to protect users, investigate abuse, resolve disputes, and comply with law.
 - Purchase, refund, accounting, transaction, and audit records may be retained as required for fraud prevention, dispute resolution, tax, accounting, or legal compliance, even after account deletion. Where practical, these records are pseudonymized or de-identified so they are no longer directly linked to your active account.
-- Residual copies may remain in encrypted backups until they are overwritten through our normal backup cycle.
+- Backup copies may follow a separate deletion cycle from active data. A record disappearing from a report does not establish deletion from backups. We do not represent a provider's query window as a deadline for deletion of every copy.
 - PostHog's one-year query window is not an automatic deletion guarantee. Product analytics data is retained as reasonably necessary for operational analysis, reliability improvements, and handling data requests, and may remain longer than one year. We review the need to retain identifiable analytics at least every twelve months and arrange deletion when it is no longer needed. Active data and backups held by PostHog and other processors may follow different deletion cycles; we do not promise deletion of every copy within one year. You can stop future collection in Settings and contact us to request access to or deletion of historical analytics. Deletion is asynchronous, and submitting a request does not mean it is complete.
-- We retain minimal identifiers and status records needed to process and verify analytics deletion requests. Completed deletion-verification records are retained for up to one year from creation; unresolved requests remain until they can be resolved, subject to applicable law. This does not extend the retention period for the underlying usage events. Accounting, refund, fraud-prevention, and other legally retained business records follow their separate purposes.
+- We retain the minimum identifiers and processing status needed to handle analytics deletion requests. The current Firstgram-managed cleanup procedure removes completed deletion-verification records older than one year from creation and preserves unresolved requests for follow-up. Those records are personal data where they remain identifiable. Pending requests require review and escalation; they are not permission to retain unrelated usage data indefinitely.
 
 Retention periods may vary according to the type of information, the sensitivity of the information, legal requirements, and whether the information is needed to resolve a dispute or enforce an agreement.
 
